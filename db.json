@@ -228,26 +228,26 @@
   "posts": [
     {
       "id": 1,
-      "title": "urna",
-      "description": "sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec",
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ullamcorper nunc. In at hendrerit tortor.",
       "profile_image": "https://robohash.org/quisquamanimiab.png?size=300x200&set=set1"
     },
     {
       "id": 2,
-      "title": "nisl",
-      "description": "id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus",
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ullamcorper nunc. In at hendrerit tortor.",
       "profile_image": "https://robohash.org/utetsed.png?size=300x200&set=set1"
     },
     {
       "id": 3,
-      "title": "sapien",
-      "description": "amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque",
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ullamcorper nunc. In at hendrerit tortor.",
       "profile_image": "https://robohash.org/beataequibusdamet.png?size=300x200&set=set1"
     },
     {
       "id": 4,
-      "title": "nunc",
-      "description": "quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices",
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ullamcorper nunc. In at hendrerit tortor.",
       "profile_image": "https://robohash.org/fugitquiaiure.png?size=300x200&set=set1"
     }
   ]
